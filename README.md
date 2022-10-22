@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at arunishonlinereference.blogspot.com
+- 👨‍💻 All of my projects are available at [arunishonlinereference.blogspot.com](arunishonlinereference.blogspot.com)
 - 📫 How to reach me **arunishrajput7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
