@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I am Arunish
 
 <!--
 **arunishrajput/arunishrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+A passionate individual who always thrives to work on end-to-end projects which develop sustainable and scalable social and technical systems to create impact.
+
+## My Social Media
+#### Blog - arunishonlinereference.blogspot.com
+#### Facebook - facebook.com/arunishrajput77
+#### Instagram - instagram.com/arunishrajput
+#### Twiter - twiter.com/arunishrajput
