@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://drive.google.com/file/d/1FMzmN6q0ISG2Jk0YJtgM2g5FDwyn4Opz/view?usp=sharing">
+<img align="center" alt="banner" src="https://github.com/arunishrajput/arunishrajput/blob/main/Assets/Banner%20GIF.gif?raw=true">
 <h1 align="center">Hi 👋, I'm Arunish</h1>
 <h3 align="center">A passionate individual who always thrives to work on end-to-end projects which develop sustainable and scalable social and technical systems to    create impact</h3>
 
