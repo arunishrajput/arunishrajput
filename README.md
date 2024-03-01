@@ -16,7 +16,7 @@
 <a href="https://arunishrajput.blogspot.com" target="blank"><img align="center" src="https://github.com/arunishrajput/arunishrajput/blob/main/Assets/pngfind.com-hover-icon-png-4333068.png?raw=true" alt="arunishrajput" height="30" width="30" /></a>
 <a href="https://fb.com/arunishrajput77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunishrajput77" height="30" width="40" /></a>
 <a href="https://instagram.com/arunishrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunishrajput" height="30" width="40" /></a>
-<a href="https://twitter.com/arunishrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunishrajput" height="30" width="40" /></a>
+<a href="https://x.com/arunishrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunishrajput" height="30" width="40" /></a>
 <a href="https://discord.gg/3jQpREsHwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arunishrajput" height="30" width="40" /></a>
 </p>
 
