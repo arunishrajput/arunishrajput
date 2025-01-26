@@ -28,7 +28,7 @@
 [![arunishrajput GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunishrajput&theme=xcode)](https://github.com/arunishrajput)
 
 <p align="center">
-<a href="https://github.com/azeemaj101">
+<a href="https://github.com/arunishrajput">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arunishrajput&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunishrajput&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
