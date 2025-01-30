@@ -2,18 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arunish</h1>
 <h3 align="center">A passionate individual who always thrives to work on end-to-end projects which develop sustainable and scalable social and technical systems to create impact</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunishrajput&label=Profile%20views&color=0e75b6&style=flat" alt="arunishrajput" /> </p>
-
-## 🚀 About Me
-
--   💻 Passionate about **Software Development, Automation & Robotics**
--   🧠 Exploring **AI, Cloud Computing, and Security**
--   ⚡ Always building, learning, and growing
--   📫 How to reach me: **arunishrajput7@gmail.com**
-
-## 🌎 Let's Connect
-
-<p align="left">
+<p align="center">
 <a href="https://arunishrajput.blogspot.com" target="blank"><img align="center" src="https://github.com/arunishrajput/arunishrajput/blob/main/Assets/pngfind.com-hover-icon-png-4333068.png?raw=true" alt="arunishrajput" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/arunishrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunishrajput" height="30" width="40" /></a>
 <a href="https://x.com/arunishrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunishrajput" height="30" width="40" /></a>
@@ -22,6 +11,17 @@
 <a href="https://discord.gg/3jQpREsHwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arunishrajput" height="30" width="40" /></a>
 
 </p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunishrajput&label=Profile%20views&color=0e75b6&style=flat" alt="arunishrajput" /> </p>
+
+## 🚀 About Me
+
+-   💻 Passionate about **Software Development, Automation & Robotics**
+-   🧠 Exploring **AI, Cloud Computing, and Security**
+-   ⚡ Always building, learning, and growing
+-   📫 How to reach me: **arunishrajput7@gmail.com**
 
 ## 🔥 Tech Stack & Tools
 
