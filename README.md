@@ -48,8 +48,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img hight="180em" src="https://github-readme-stats.vercel.app/api?username=arunishrajput&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunishrajput&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arunishrajput&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arunishrajput&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunishrajput&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=arunishrajput&theme=radical"/>
 </p>
