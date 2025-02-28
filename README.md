@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
--   💻 Passionate about **Software Development, Automation & Robotics**
+-   💻 Passionate about **Web Development, Automation & Robotics**
 -   🧠 Exploring **AI, Cloud Computing, and Security**
 -   ⚡ Always building, learning, and growing
 -   📫 How to reach me: **arunishrajput7@gmail.com**
