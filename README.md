@@ -1,8 +1,4 @@
-<div align="center">
-  <img alt="Arunish Rajput" src="https://raw.githubusercontent.com/arunishrajput/arunishrajput/main/Assets/Banner%20GIF.gif" width="100%" />
-</div>
-
-<h1 align="center">Hi, I'm Arunish Rajput</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:2B4A8A,100:7AA2F7&height=200&section=header&text=Arunish%20Rajput&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=CSE%20undergrad%20%C2%B7%20AI%20%C2%B7%20Web%20%C2%B7%20Hardware&descSize=17&descAlignY=52&animation=fadeIn" width="100%" alt="Arunish Rajput" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=CSE+undergrad+%40+SIT+Tumakuru;I+build+end-to-end+systems+%E2%80%94+AI%2C+web+and+hardware;From+idea+to+deployed%2C+every+single+week" alt="What I do" />
@@ -114,13 +110,13 @@ I like problems that don't stop at the screen — a school's paperwork, a hackat
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunishrajput&layout=compact&langs_count=8&theme=radical"/>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunishrajput&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=7AA2F7&text_color=A7C4FF" alt="Top languages" />
+</div>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=arunishrajput&theme=radical"/>
-</p>
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=arunishrajput&hide_border=true&theme=tokyonight&background=0B1120&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=A7C4FF&dates=8592B5" alt="GitHub streak" />
+</div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=arunishrajput&theme=tokyo-night&hide_border=true&bg_color=0B1120&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true" alt="Contribution graph" />
