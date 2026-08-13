@@ -122,6 +122,9 @@ I like problems that don't stop at the screen — a school's paperwork, a hackat
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=arunishrajput&theme=tokyo-night&hide_border=true&bg_color=0B1120&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true" alt="Contribution graph" />
 </div>
 
+<div align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/arunishrajput/arunishrajput/output/snake.svg" alt="Contribution snake" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:7AA2F7,100:0B1120&height=3" width="100%" alt="" />
 
