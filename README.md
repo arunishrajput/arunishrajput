@@ -18,7 +18,7 @@
   <a href="https://github.com/arunishrajput?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farunishrajput&query=%24.public_repos&label=Repositories&style=flat-square&logo=github&color=7AA2F7&labelColor=555555" alt="Repositories" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:7AA2F7,100:0B1120&height=3" width="100%" alt="" />
 
 ## About Me
 
@@ -30,7 +30,7 @@ I like problems that don't stop at the screen — a school's paperwork, a hackat
 - 🎭 **Off-screen** — drone club, street theatre, and far too many ideas at 2 AM
 - 📫 **Reach me** at [arunishrajput7@gmail.com](mailto:arunishrajput7@gmail.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:7AA2F7,100:0B1120&height=3" width="100%" alt="" />
 
 ## Tech Stack
 
@@ -106,7 +106,7 @@ I like problems that don't stop at the screen — a school's paperwork, a hackat
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:7AA2F7,100:0B1120&height=3" width="100%" alt="" />
 
 ## GitHub Stats
 
@@ -122,7 +122,8 @@ I like problems that don't stop at the screen — a school's paperwork, a hackat
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=arunishrajput&theme=tokyo-night&hide_border=true&bg_color=0B1120&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true" alt="Contribution graph" />
 </div>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:7AA2F7,100:0B1120&height=3" width="100%" alt="" />
 
 ## Let's Build Something
 
